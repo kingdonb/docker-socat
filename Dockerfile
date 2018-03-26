@@ -1,5 +1,5 @@
 FROM justcontainers/base-alpine
-MAINTAINER tynor88 <tynor@hotmail.com>
+MAINTAINER kingdon.b <kingdon@tuesdaystudios.com>
 
 RUN apk add --no-cache socat
 
